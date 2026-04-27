@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: neex-backend-python
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server.py
+    envVars:
+      - key: PORT
+        value: 5001
+      - key: NODE_ENV
+        value: production
+      - key: JWT_SECRET
+        sync: false  # Set manually in Render dashboard
+      - key: FIREBASE_SERVICE_ACCOUNT_JSON
+        sync: false  # Set manually in Render dashboard
+      - key: FIREBASE_DATABASE_URL
+        value: https://neex-57c2e-default-rtdb.firebaseio.com
