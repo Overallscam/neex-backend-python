@@ -1,0 +1,9 @@
+[build]
+  builder = "NIXPACKS"
+
+[build.env]
+  NIXPACKS_PYTHON_VERSION = "3.11"
+
+[deploy]
+  startCommand = "python server.py"
+  restartPolicyType = "always"

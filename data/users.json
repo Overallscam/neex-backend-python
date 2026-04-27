@@ -1,0 +1,87 @@
+[
+  {
+    "id": 0,
+    "username": "Administrator",
+    "password": "$2b$10$Un0brqQq.uHpIWOveoYky.OJiPfno/s9rxS294Md6Xk/vlKDBvwZC",
+    "name": "System Administrator",
+    "email": "admin@neex.app",
+    "avatar": "AD",
+    "bio": "System Administrator - Full Access Control 🔧⚡",
+    "verified": true,
+    "isAdmin": true,
+    "role": "admin",
+    "permissions": {
+      "deleteAnyPost": true,
+      "editAnyPost": true,
+      "makePostAnonymous": true,
+      "togglePostVisibility": true,
+      "manageUsers": true,
+      "viewAllData": true,
+      "moderateContent": true
+    },
+    "followers": 0,
+    "following": 0,
+    "joinDate": "2025-09-05T00:00:00.000Z"
+  },
+  {
+    "id": 1,
+    "username": "john",
+    "password": "$2b$10$N9F6oTWqu3NKRuZZZk4A6uCJsmuNyjzXk.x7dc.8x/ig.mXiiKsMq",
+    "name": "John Doe",
+    "email": "john@example.com",
+    "avatar": "JD",
+    "bio": "Hello! I'm John 👋",
+    "verified": true,
+    "isAdmin": true,
+    "role": "admin",
+    "permissions": {
+      "deleteAnyPost": true,
+      "editAnyPost": true,
+      "makePostAnonymous": true,
+      "togglePostVisibility": true,
+      "manageUsers": true,
+      "viewAllData": true,
+      "moderateContent": true
+    },
+    "followers": 1234,
+    "following": 567,
+    "joinDate": "2025-08-20T00:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "username": "bob",
+    "password": "$2b$10$N9F6oTWqu3NKRuZZZk4A6uCJsmuNyjzXk.x7dc.8x/ig.mXiiKsMq",
+    "name": "Bob Chen",
+    "email": "bob@example.com",
+    "avatar": "BC",
+    "bio": "Tech enthusiast 💻",
+    "verified": false,
+    "followers": 543,
+    "following": 789,
+    "joinDate": "2025-08-22T00:00:00.000Z",
+    "role": "admin",
+    "isAdmin": true,
+    "permissions": {
+      "deleteAnyPost": true,
+      "editAnyPost": true,
+      "makePostAnonymous": true,
+      "togglePostVisibility": true,
+      "manageUsers": true,
+      "viewAllData": true,
+      "moderateContent": true
+    }
+  },
+  {
+    "id": 4,
+    "username": "sarah",
+    "password": "123",
+    "name": "Sarah Garcia",
+    "email": "sarah@example.com",
+    "avatar": "SG",
+    "bio": "Designer & creator 🎨",
+    "verified": true,
+    "followers": 2156,
+    "following": 234,
+    "joinDate": "2025-08-23T00:00:00.000Z"
+  }
+]

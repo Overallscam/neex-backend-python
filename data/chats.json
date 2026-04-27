@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "avatar": "SJ",
+    "lastMessage": "You: vbvjdb",
+    "timestamp": "now",
+    "unread": 0,
+    "online": true,
+    "messages": [
+      {
+        "id": 1,
+        "text": "Hey! How are you doing?",
+        "sent": false,
+        "time": "10:30 AM",
+        "timestamp": 1724850600000
+      },
+      {
+        "id": 2,
+        "text": "I'm doing great! How about you?",
+        "sent": true,
+        "time": "10:32 AM",
+        "timestamp": 1724850720000
+      },
+      {
+        "id": 3,
+        "text": "Pretty good! Want to grab coffee later?",
+        "sent": false,
+        "time": "10:35 AM",
+        "timestamp": 1724850900000
+      },
+      {
+        "id": 4,
+        "text": "Sure, sounds good! 👍",
+        "sent": true,
+        "time": "10:36 AM",
+        "timestamp": 1724850960000
+      },
+      {
+        "id": 5,
+        "text": "Great! How about 3 PM at the usual place?",
+        "sent": false,
+        "time": "10:37 AM",
+        "timestamp": 1724851020000
+      },
+      {
+        "id": 1756390942104,
+        "text": "vbvjdb",
+        "sent": true,
+        "time": "07:52 PM",
+        "timestamp": 1756390942312
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Mike Rodriguez",
+    "avatar": "MR",
+    "lastMessage": "Liked your post",
+    "timestamp": "1h",
+    "unread": 0,
+    "online": true,
+    "messages": [
+      {
+        "id": 1,
+        "text": "Nice post about the new project!",
+        "sent": false,
+        "time": "9:15 AM",
+        "timestamp": 1724846100000
+      },
+      {
+        "id": 2,
+        "text": "Thanks! It was a lot of work",
+        "sent": true,
+        "time": "9:16 AM",
+        "timestamp": 1724846160000
+      },
+      {
+        "id": 3,
+        "text": "I can imagine. The results look amazing though",
+        "sent": false,
+        "time": "9:17 AM",
+        "timestamp": 1724846220000
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Emma Chen",
+    "avatar": "EC",
+    "lastMessage": "Thanks for sharing!",
+    "timestamp": "3h",
+    "unread": 1,
+    "online": false,
+    "messages": [
+      {
+        "id": 1,
+        "text": "Thanks for sharing that article!",
+        "sent": false,
+        "time": "7:20 AM",
+        "timestamp": 1724839200000
+      },
+      {
+        "id": 2,
+        "text": "You're welcome! I thought you'd find it interesting",
+        "sent": true,
+        "time": "7:25 AM",
+        "timestamp": 1724839500000
+      },
+      {
+        "id": 3,
+        "text": "Definitely! Very insightful",
+        "sent": false,
+        "time": "7:30 AM",
+        "timestamp": 1724839800000
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Alex Lopez",
+    "avatar": "AL",
+    "lastMessage": "You: Let's catch up soon",
+    "timestamp": "1d",
+    "unread": 0,
+    "online": true,
+    "messages": [
+      {
+        "id": 1,
+        "text": "It's been a while! How have you been?",
+        "sent": false,
+        "time": "Yesterday",
+        "timestamp": 1724764800000
+      },
+      {
+        "id": 2,
+        "text": "I know! I've been pretty busy with work",
+        "sent": true,
+        "time": "Yesterday",
+        "timestamp": 1724765100000
+      },
+      {
+        "id": 3,
+        "text": "Let's catch up soon",
+        "sent": true,
+        "time": "Yesterday",
+        "timestamp": 1724765400000
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Kate Wilson",
+    "avatar": "KW",
+    "lastMessage": "Sent a photo",
+    "timestamp": "2d",
+    "unread": 0,
+    "online": false,
+    "messages": [
+      {
+        "id": 1,
+        "text": "Check out this sunset! 🌅",
+        "sent": false,
+        "time": "2 days ago",
+        "timestamp": 1724678400000
+      },
+      {
+        "id": 2,
+        "text": "Wow, that's beautiful!",
+        "sent": true,
+        "time": "2 days ago",
+        "timestamp": 1724678700000
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "David Jackson",
+    "avatar": "DJ",
+    "lastMessage": "Active now",
+    "timestamp": "Active",
+    "unread": 0,
+    "online": true,
+    "messages": [
+      {
+        "id": 1,
+        "text": "Hey there!",
+        "sent": false,
+        "time": "Just now",
+        "timestamp": 1724851200000
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Lisa Thompson",
+    "avatar": "LT",
+    "lastMessage": "Active 5m ago",
+    "timestamp": "5m",
+    "unread": 0,
+    "online": true,
+    "messages": [
+      {
+        "id": 1,
+        "text": "Looking forward to the meeting tomorrow",
+        "sent": false,
+        "time": "5 min ago",
+        "timestamp": 1724850900000
+      },
+      {
+        "id": 2,
+        "text": "Me too! Should be interesting",
+        "sent": true,
+        "time": "4 min ago",
+        "timestamp": 1724850960000
+      }
+    ]
+  }
+]
